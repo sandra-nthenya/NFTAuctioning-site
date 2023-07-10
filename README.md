@@ -4,10 +4,14 @@ All data is stored within the smart contract, to allow for easy monitoring
 
 # Launching Project
 Clone the project - git clone https://github.com/Kodhe-coder/NFTAuctioning-site
+
 Open the folder with any editor but ideally use of VS Code is recommended.
+
 In terminal: npm init
-             npm install --save-dev hardhat
-             npm run dev
+
+npm install --save-dev hardhat
+
+npm run dev
 
 
 
