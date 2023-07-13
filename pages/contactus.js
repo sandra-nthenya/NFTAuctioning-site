@@ -23,17 +23,16 @@ const contactus = () => {
             <div className={Style.contactus_box_box_left_item}>
               <h3>🗺 ADDRESS</h3>
               <p>
-                Photo booth tattooed prism, portland taiyaki hoodie neutra
-                typewriter
+               Hill Park Hotel, Lower Hill Road
               </p>
             </div>
             <div className={Style.contactus_box_box_left_item}>
               <h3>💌 EMAIL</h3>
-              <p>nc.example@example.com</p>
+              <p>sandra.masila@gmail.com</p>
             </div>
             <div className={Style.contactus_box_box_left_item}>
               <h3>☎ PHONE</h3>
-              <p>000-123-456-7890</p>
+              <p>+254 798945615</p>
             </div>
             <div className={Style.contactus_box_box_left_item}>
               <h3>🌏 SOCIALS</h3>
@@ -60,7 +59,7 @@ const contactus = () => {
                 <label htmlFor="name">Full Name</label>
                 <input
                   type="text"
-                  placeholder="shoaib bhai"
+                  placeholder="shawn the king kodhe"
                   className={formStyle.Form_box_input_userName}
                 />
               </div>

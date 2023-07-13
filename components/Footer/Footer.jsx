@@ -70,8 +70,8 @@ const Footer = () => {
           </div>
           <div className={Style.subscribe_box_info}>
             <p>
-              Discover, collect, and sell extraordinary NFTs OpenSea is the
-              world first and largest NFT marketplace
+              Discover, collect, and sell extraordinary NFTs. Plutus is 
+              Africa's first and largest NFT marketplace
             </p>
           </div>
         </div>

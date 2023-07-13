@@ -9,39 +9,30 @@ import images from "../img";
 const aboutus = () => {
   const founderArray = [
     {
-      name: "Niamh O'Shea",
+      name: "Sandra Nthenya",
       position: "Co-founder and Chief Executive",
       images: images.founder1,
     },
     {
-      name: "Danien Jame",
+      name: "Shawn Kodhe",
       position: "Co-founder and Chief Executive",
       images: images.founder2,
     },
-    {
-      name: "Orla Dwyer",
-      position: "Co-founder, Chairman",
-      images: images.founder3,
-    },
-    {
-      name: "Dara Frazier",
-      position: "Co-Founder, Chief Strategy Officer",
-      images: images.founder4,
-    },
+    
   ];
 
   const factsArray = [
     {
       title: "10 million",
-      info: "Articles have been public around the world (as of Sept. 30, 2021)",
+      info: "Articles have been public around the world (as of July. 14, 2023)",
     },
     {
       title: "100,000",
-      info: "Registered users account (as of Sept. 30, 2021)",
+      info: "Registered users account (as of July 14, 2023)",
     },
     {
       title: "220+",
-      info: "Countries and regions have our presence (as of Sept. 30, 2021",
+      info: "Countries and regions have our presence (as of July 14, 2023",
     },
   ];
   return (
@@ -51,9 +42,7 @@ const aboutus = () => {
           <div className={Style.aboutus_box_hero_left}>
             <h1>👋 About Us.</h1>
             <p>
-              We’re impartial and independent, and every day we create
-              distinctive, world-class programmes and content which inform,
-              educate and entertain millions of people in the around the world.
+              We are the first NFT listers in Africa and proud at that. We are the rainbow cupcake and the sprinkles on top.
             </p>
           </div>
           <div className={Style.aboutus_box_hero_right}>
@@ -64,8 +53,7 @@ const aboutus = () => {
         <div className={Style.aboutus_box_title}>
           <h2>⛱ Founder</h2>
           <p>
-            We’re impartial and independent, and every day we create
-            distinctive, world-class programmes and content
+            We’re the rainbow sprinkles in your cupcake.
           </p>
         </div>
 
@@ -90,8 +78,7 @@ const aboutus = () => {
         <div className={Style.aboutus_box_title}>
           <h2>🚀 Fast Facts</h2>
           <p>
-            We’re impartial and independent, and every day we create
-            distinctive, world-class programmes and content
+           The rainbow sprinkles in your cupcake.
           </p>
         </div>
 

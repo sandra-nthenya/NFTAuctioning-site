@@ -64,7 +64,7 @@ const AuthorProfileCard = ({ currentAccount }) => {
 
         <div className={Style.AuthorProfileCard_box_info}>
           <h2>
-            Dony Herrera{""}{" "}
+            Shawn Kodhe{""}{" "}
             <span>
               <MdVerified />
             </span>{" "}
@@ -79,8 +79,7 @@ const AuthorProfileCard = ({ currentAccount }) => {
           </div>
 
           <p>
-            Punk #4786 / An OG Cryptopunk Collector, hoarder of NFTs.
-            Contributing to @ether_cards, an NFT Monetization Platform.
+           A Black Raisin,You know we do this on a daily.
           </p>
 
           <div className={Style.AuthorProfileCard_box_info_social}>
@@ -120,7 +119,7 @@ const AuthorProfileCard = ({ currentAccount }) => {
                   <TiSocialInstagram />
                 </span>{" "}
                 {""}
-                Instragram
+                Instagram
               </p>
               <p>
                 <span>
@@ -150,7 +149,7 @@ const AuthorProfileCard = ({ currentAccount }) => {
                 <MdOutlineReportProblem />
               </span>{" "}
               {""}
-              Report abouse
+              Report abuse
             </p>
           )}
         </div>

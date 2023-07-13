@@ -1,11 +1,11 @@
 [
   {
-    "creatorName": "Dony Herrera",
+    "creatorName": "Shawn Kodhe",
     "nftImage": "nft-image-1.png",
     "userImage": "user-1.png",
     "accountAddress": "0x829BD824B016326A401d083B33D092293333A830",
     "creatorId": "1",
-    "intro": "Punk #4786 / An OG Cryptopunk Collector, hoarder of NFTs. Contributing to @ether_cards, an NFT Monetization Platform.",
+    "intro": "Black Raisin,You know we do this on a Daily",
     "collectiables": [
       {
         "type": "image",
@@ -159,13 +159,13 @@
     ],
     "followers": [
       {
-        "name": "Jone Sina",
+        "name": "Sandra Nthenya",
         "userImage": "user-1.png",
         "description": " Cryptopunk Collector, hoarder of NFTs. Contributing to @ether_cards, an NFT Monetization Platform",
         "bool": true
       },
       {
-        "name": "Shoaib Sina",
+        "name": "Bruce Lee",
         "userImage": "user-2.png",
         "description": "@ether_cards, an NFT Monetization Platform Cryptopunk Collector, hoarder of NFTs. Contributing to",
         "bool": true
@@ -173,19 +173,19 @@
     ],
     "following": [
       {
-        "name": "Shoaib Sina",
+        "name": "Texas Ranger",
         "userImage": "user-3.png",
         "description": " Cryptopunk Collector, hoarder of NFTs. Contributing to @ether_cards, an NFT Monetization Platform",
         "bool": true
       },
       {
-        "name": "Tim Sina",
+        "name": "Will Smith",
         "userImage": "user-5.png",
         "description": "@ether_cards, an NFT Monetization Platform Cryptopunk Collector, hoarder of NFTs. Contributing to",
         "bool": true
       },
       {
-        "name": "Jim Sina",
+        "name": "Tina Turner",
         "userImage": "user-9.png",
         "description": "@ether_cards, an NFT Monetization Platform Cryptopunk Collector, hoarder of NFTs. Contributing to",
         "bool": true

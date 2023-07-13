@@ -40,7 +40,7 @@
 
 
 /* //THEME 2 */
-:root{
+/* :root{
   --icons-color: #FFDF2B;
   --icons-light-color: #ffdf2b57;
   --icons-bg-color: #FFDF2B;
@@ -56,7 +56,7 @@
   --box-shadow-2:1px 1px 2px #FFDF2B,
   -1px -1px 2px #FFDF2B;
 
-}
+} */
 
 /* //THEME 3 */
 /* :root{
@@ -77,7 +77,7 @@
 } */
 
 /* //THEME 4 */
-/* :root{
+:root{
   --icons-color: #EE0823;
   --icons-light-color: #EE082357;
   --icons-bg-color: #EE0823;
@@ -92,7 +92,7 @@
   --box-shadow-2:1px 1px 2px #EE0823,
   -1px -1px 2px #EE0823;
 
-} */
+}
 
 /* //THEME 5 */
 /* :root{

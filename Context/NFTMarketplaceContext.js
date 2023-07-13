@@ -5,13 +5,13 @@ import { useRouter } from "next/router";
 import axios from "axios";
 import { create as ipfsHttpClient } from "ipfs-http-client";
 
-const projectId = process.env.NEXT_PUBLIC_PROJECT_ID;
-const projectSecretKey = process.env.NEXT_PUBLIC_SECRECT_KEY;
+const projectId = "2SUQfNFHvJ8uaUyD8eSIlz7XYBc";
+const projectSecretKey = "7bae739f3d194e503caceaa8ea65fc22";
 const auth = `Basic ${Buffer.from(`${projectId}:${projectSecretKey}`).toString(
   "base64"
 )}`;
 
-const subdomain = process.env.NEXT_PUBLIC_SUBDOMAIN;
+const subdomain = "https://kodhe-nft.infura-ipfs.io";
 
 const client = ipfsHttpClient({
   host: "infura-ipfs.io",
@@ -58,6 +58,8 @@ export const NFTMarketplaceContext = React.createContext();
 
 export const NFTMarketplaceProvider = ({ children }) => {
   const titleData = "Discover, collect, and sell NFTs";
+
+ 
 
   //------USESTAT
   const [error, setError] = useState("");
@@ -398,6 +400,7 @@ export const NFTMarketplaceProvider = ({ children }) => {
   return (
     <NFTMarketplaceContext.Provider
       value={{
+        
         checkIfWalletConnected,
         connectWallet,
         uploadToIPFS,
