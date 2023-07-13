@@ -4,11 +4,19 @@ The auctioning website provides a platform for users to effortlessly upload thei
 
 # Launching Project
 
--Clone the project 
-Windows 7+ - git clone https://github.com/Kodhe-coder/NFTAuctioning-site
-Linux - sudo git clone https://github.com/Kodhe-coder/NFTAuctioning-site
-Mac - git clone https://github.com/Kodhe-coder/NFTAuctioning-site
-
+Clone the project 
+Windows 7+:
+```shell
+git clone https://github.com/Kodhe-coder/NFTAuctioning-site
+```
+Linux:
+```shell
+sudo git clone https://github.com/Kodhe-coder/NFTAuctioning-site
+```
+Mac:
+```shell
+git clone https://github.com/Kodhe-coder/NFTAuctioning-site
+```
 Open the folder with any editor but ideally use of VS Code is recommended.
 
 In terminal: 
