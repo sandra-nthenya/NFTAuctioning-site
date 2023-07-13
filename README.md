@@ -4,16 +4,17 @@ The auctioning website provides a platform for users to effortlessly upload thei
 
 # Launching Project
 
-Clone the project 
-Windows 7+:
+Clone the project
+
+->Windows 7+:
 ```shell
 git clone https://github.com/Kodhe-coder/NFTAuctioning-site
 ```
-Linux:
+->Linux:
 ```shell
 sudo git clone https://github.com/Kodhe-coder/NFTAuctioning-site
 ```
-Mac:
+->Mac:
 ```shell
 git clone https://github.com/Kodhe-coder/NFTAuctioning-site
 ```
